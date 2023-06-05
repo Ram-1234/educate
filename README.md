@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Screenshot
 
-<img src="./src/screenshot.png" width="128"/>
+<img src="./src/screenshot.png" width="400px" height="300px" />
 
 ## Available Scripts
 
